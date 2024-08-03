@@ -1,0 +1,11 @@
+{
+  "example.js": {
+    "title": "测试",
+    "date": "2023-05-04",
+    "author": "orangeboy",
+    "version": 1,
+    "brief": "介绍",
+    "updateBrief": "更新介绍",
+    "desc": "长介绍"
+  }
+}
